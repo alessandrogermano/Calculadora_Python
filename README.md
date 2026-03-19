@@ -1,0 +1,1 @@
+Desenvolvi uma calculadora em Python como parte dos meus estudos em programação. O objetivo do projeto foi praticar conceitos fundamentais da linguagem e fortalecer a lógica de programação. A aplicação permite realizar operações básicas, como adição, subtração, multiplicação e divisão, através de uma interação simples com o usuário.
